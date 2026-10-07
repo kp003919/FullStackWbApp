@@ -32,17 +32,15 @@ A clean, fully functional **RESTful API** built with **ASP.NET Core** and **MySQ
 ---
 
 ## 📂 Project Structure
-
-** MyFirstApi/
-** ├── Controllers/
-# │ └── GreetingsController.cs # API endpoints — GET/POST/PUT/DELETE
-├── Models/
-│ └── GreetingItem.cs # Data model — Id, Name, Age, Address, Message, CreatedAt
-├── Data/
-│ └── AppDbContext.cs # Database context & EF configuration
-├── Program.cs # App startup, DI, CORS, routing config
-├── appsettings.json # Connection strings & environment settings
-└── README.md
+| File / Folder | Purpose |
+|---|---|
+| **`MyFirstApi/`** | Root project directory |
+| ├── `Controllers/GreetingsController.cs` | API endpoints — GET / POST / PUT / DELETE |
+| ├── `Models/GreetingItem.cs` | Data model — Id, Name, Age, Address, Message, CreatedAt |
+| ├── `Data/AppDbContext.cs` | Database context & Entity Framework configuration |
+| ├── `Program.cs` | Application startup — DI, CORS, routing, middleware setup |
+| ├── `appsettings.json` | Connection strings & environment configuration |
+| └── `README.md` | Project documentation & setup guide |
 
 ## 🔌 API Endpoints
 
