@@ -33,8 +33,8 @@ A clean, fully functional **RESTful API** built with **ASP.NET Core** and **MySQ
 
 ## 📂 Project Structure
 
-# MyFirstApi/
-# ├── Controllers/
+** MyFirstApi/
+** ├── Controllers/
 # │ └── GreetingsController.cs # API endpoints — GET/POST/PUT/DELETE
 ├── Models/
 │ └── GreetingItem.cs # Data model — Id, Name, Age, Address, Message, CreatedAt
