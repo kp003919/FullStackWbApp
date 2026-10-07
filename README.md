@@ -98,9 +98,9 @@ Dual-Backend Compatible	Identical routes and JSON format to Node.js version → 
 - React Frontend	github.com/kp003919/react-frontend
 - Portfolio	github.com/kp003919/muhsin-portfolio
 
-##👤 About
+## 👤 About
 Built as part of a full-stack learning project — demonstrating end-to-end system design, REST API principles, and database integration. Focused on clean code, standard conventions, and interoperability between different backend technologies.
 Muhsin Atto
-📧 darenhaji@gmail.com
-🔗 linkedin.com/in/muhsin-atto
-💻 github.com/kp003919
+- 📧 darenhaji@gmail.com
+- 🔗 linkedin.com/in/muhsin-atto
+- 💻 github.com/kp003919
